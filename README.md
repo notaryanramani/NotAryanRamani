@@ -1,7 +1,6 @@
 ## Welcome to my github
-* 🎓 MSc Artificial Intelligence @ National College of Ireland.
-* 💻 9 month of Industry Internship Experienc.
-* 📌 Checkout my pinned repositories for some of my best work 😄.
+* Hi, I am Aryan, a MS by Research Student @ IIT Bombay. 
+* I like to train neural networks
 
 
 <h3 align="left">Tools & Technologies:</h3>
